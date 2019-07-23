@@ -65,7 +65,7 @@ public class GoogleMapInfoWindowActivity extends FragmentActivity implements OnM
 
 
         InfoWindowData info = new InfoWindowData();
-        info.setImage("img");
+        info.setImage("image");
         info.setHotel("Hotel : excellent hotels available");
         info.setFood("Food : all types of restaurants available");
         info.setTransport("Reach the site by bus, car and train.");
